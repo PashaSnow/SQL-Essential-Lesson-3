@@ -75,3 +75,6 @@ SELECT * FROM Position
 INSERT Employeers VALUES(1, 4, 'Pavlo', 'Bauman', '(063)-123-45-67')
 
 SELECT * FROM Employeers
+
+USE master
+DROP DATABASE Personnel
